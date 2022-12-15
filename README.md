@@ -1,4 +1,10 @@
 ### Hi there 👋
+![Yunya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunya-Hsu&show_icons=true&theme=transparent)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunya-Hsu&layout=compact)](https://github.com/Yunya-Hsu/github-readme-stats)
+
+
+
 
 <!--
 **Yunya-Hsu/Yunya-Hsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
