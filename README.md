@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Home Page & Tweet Page](https://github.com/Yunya-Hsu/Yunya-Hsu/blob/main/images/intro.gif)
 ![Yunya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunya-Hsu&show_icons=true&theme=transparent)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunya-Hsu&layout=compact)](https://github.com/Yunya-Hsu/github-readme-stats)
