@@ -11,9 +11,9 @@
 <br />
 
 
-| <a href="https://github.com/Yunya-Hsu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yunya-Hsu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yunya's github stats" /></a> | <a href="https://github.com/Yunya-Hsu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunya-Hsu&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Yunya-Hsu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yunya-Hsu&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Yunya's github stats" /></a> | <a href="https://github.com/Yunya-Hsu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunya-Hsu&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yunya-Hsu&repo=Namaste&theme=buefy)](https://github.com/Yunya-Hsu/Namaste)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yunya-Hsu&repo=Namaste&theme=transparent)](https://github.com/Yunya-Hsu/Namaste)
 
